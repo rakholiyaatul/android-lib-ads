@@ -1,6 +1,6 @@
 [![](https://jitpack.io/v/rakholiyaatul/android-lib-ads.svg)](https://jitpack.io/#rakholiyaatul/android-lib-ads)
 
-# lib-ads
+# android-lib-ads
 this library to show AdMob app open ads with simple and custom way 
 
 # usage
@@ -14,7 +14,7 @@ Include the library in your build.gradle
 
 	
 	dependencies {
-	      implementation 'com.github.rakholiyaatul:lib-ads:1.0.0'
+	      implementation 'com.github.rakholiyaatul:android-lib-ads:Tag'
 	}
 
 first set app open ad id:
